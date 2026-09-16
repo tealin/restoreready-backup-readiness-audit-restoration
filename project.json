@@ -1,0 +1,41 @@
+{
+  "id": 81,
+  "category": "pc-utility",
+  "slug": "backup-readiness-audit",
+  "target": "PC backups",
+  "appid": null,
+  "summaryRu": "Планировщик резервного копирования с проверкой восстановления на отдельном каталоге.",
+  "features": [
+    "Backup coverage matrix",
+    "Restore drill checklist",
+    "Destination capacity estimate"
+  ],
+  "title": "RestoreReady — PC backups — Restoration",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "RestoreReady",
+  "repositoryName": "restoreready-backup-readiness-audit-restoration",
+  "githubTopics": [
+    "pc-backups",
+    "backup-planning",
+    "restore-testing",
+    "capacity-estimate",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "restoration"
+}
